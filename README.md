@@ -36,7 +36,8 @@ uml-diagrams-astah/
 ├── activity-diagram.asta     # Diagrama de Atividades
 └── README.md                  # Documentação
 
----
+```
+
 
 ## 👨‍💻 Autor  
 **Fabiano Faria de Resende**  
