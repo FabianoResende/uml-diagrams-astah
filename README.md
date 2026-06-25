@@ -1,7 +1,7 @@
 # 🧩 Diagramas UML — Modelagem com Astah
 
 Conjunto de diagramas UML desenvolvidos para estudo, documentação e prática de **Engenharia de Software**, utilizando a ferramenta **Astah UML**.  
-Este repositório faz parte da minha evolução técnica e preparação para o estágio de **Engenharia de IA Front‑end — FlyRank (Jul/2026)**.
+Este repositório faz parte da minha evolução técnica e preparação para o estágio de **Engenharia de IA — FlyRank**.
 
 ---
 
@@ -41,7 +41,7 @@ uml-diagrams-astah/
 
 ## 👨‍💻 Autor  
 **Fabiano Faria de Resende**  
-Estagiário de Engenharia de IA Front‑end — FlyRank (Jul/2026)  
+Estagiário de Engenharia de IA — FlyRank  
 GitHub: https://github.com/FabianoResende  
 LinkedIn: https://www.linkedin.com/in/fabianofr/
 
